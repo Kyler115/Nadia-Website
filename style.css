@@ -114,7 +114,6 @@ body {
 }
 
 .boat-banner {
-    background-image: url('./pictures/boatriver.jpg');
     background-size: cover;
     background-position: center;
     height: 50vh;
