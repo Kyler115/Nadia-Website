@@ -114,7 +114,7 @@ body {
 }
 
 .boat-banner {
-    background-image: url('./pictures/boat.JPG');
+    background-image: url('./pictures/boat.jpg');
     background-size: cover;
     background-position: center;
     height: 50vh;
