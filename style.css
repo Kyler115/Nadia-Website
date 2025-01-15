@@ -16,7 +16,6 @@ body {
     color: var(--text-color);
     margin: 0;
     background-color: var(--main-bg-color);
-    overflow-x: hidden;
 }
 
 .navbar {
