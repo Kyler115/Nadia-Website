@@ -17,6 +17,13 @@ body {
     margin: 0;
     background-color: var(--main-bg-color);
 }
+html, body {
+    overflow-x: hidden; 
+    margin: 0; 
+    padding: 0; 
+    width: 100%; 
+    box-sizing: border-box;
+}
 
 .navbar {
     margin-bottom: 0;
@@ -89,15 +96,12 @@ body {
 }
 
 /* Research Content */
-.research-content {
-    padding: 0;
-}
 
-    .research-content .row {
-        display: flex;
-        align-items: flex-start;
-        padding: 24px;
-    }
+.research-content .row {
+    display: flex;
+    align-items: flex-start;
+    padding: 24px;
+}
 
 .research-picture {
     width: 100%;
